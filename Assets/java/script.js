@@ -29,10 +29,10 @@ function generatePassword() {
   passLength = prompt("How many characters would you like your password to be? Must between 8 and 128 characters.");
   console.log("Password length " + passLength);
 
-  var conNum = confirm("Would you like this password to contain numbers?");;
-  var conSpecial = confirm("Would you like this password to contain special characters?");;
-  var conLower = confirm("Would you like this password to contain lower case letters?");;
-  var conUpper = confirm("Would you like this password to contain upper case letters?");;
+  var conNum = confirm("Would you like this password to contain numbers?");
+  var conSpecial = confirm("Would you like this password to contain special characters?");
+  var conLower = confirm("Would you like this password to contain lower case letters?");
+  var conUpper = confirm("Would you like this password to contain upper case letters?");
   var userChoice = [];
   var password = '';
 
