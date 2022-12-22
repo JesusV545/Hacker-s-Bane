@@ -11,7 +11,8 @@ Lastly, gaze upon your glorious new password and save it.
 
 ## At A Glance
 
-<img href = "/assets/images/screenshot of PasswordApp">
+![screenshot-of-PasswordApp](https://user-images.githubusercontent.com/117941643/209222081-e8dc5972-60b2-4cb2-90ba-c9828d4b7f03.png)
+
 
 ### Consists of
 HTML, CSS, and JavaScript
